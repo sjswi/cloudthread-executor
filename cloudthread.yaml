@@ -1,0 +1,5 @@
+cloudthread:
+  host: 43.138.60.133
+  port: 8888
+  dependency:
+    path: ""
